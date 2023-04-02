@@ -5,7 +5,10 @@
 or trends that can be explored in further detail.
 
 The Titanic dataset contains information about passengers on the Titanic, including their *demographics, cabin class, 
-fare paid*, and whether they survived the disaster
+fare paid*, and whether they survived the disaster.
+
+![First page of the R markdown report](https://github.com/rajikudusadewale/Titanic-EDA/blob/main/Report%20SS.jpg)
+
 
 Based on the exploratory data analysis (EDA) performed on the Titanic dataset, the following conclusions and insights can be drawn <-
 
