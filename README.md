@@ -1,4 +1,4 @@
-# Titanic-EDA (codes)
+# Exploratory Data Analysis on Titanic Incident 
 
 **Exploratory Data Analysis (EDA)** is an approach to analyzing and summarizing data that is used to understand its main features and patterns. 
 **EDA** is typically used in the early stages of data analysis, to gain a deeper understanding of the data and to identify potential relationships 
