@@ -9,6 +9,8 @@ fare paid*, and whether they survived the disaster.
 
 ![First page of the R markdown report](https://github.com/rajikudusadewale/Titanic-EDA/blob/main/Report%20SS.jpg)
 
+[Click here for the Full Report](https://github.com/rajikudusadewale/Titanic-EDA/blob/main/EDA_T_Report.pdf)
+
 
 Based on the exploratory data analysis (EDA) performed on the Titanic dataset, the following conclusions and insights can be drawn <-
 
